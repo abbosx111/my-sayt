@@ -86,3 +86,16 @@ button{
     color: white;
 }
 
+.hp{
+    color: white;
+    /* text-align: center; */
+    margin: 160px;
+
+}
+
+.klkl{
+    display: flex;      
+    margin-top: -250px;
+}
+
+
